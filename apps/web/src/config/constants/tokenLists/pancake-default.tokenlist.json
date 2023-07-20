@@ -1,0 +1,38 @@
+{
+  "name": "Pancake Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped MANTLE",
+      "symbol": "WMNT",
+      "address": "0x2C6db4f138A1336dB50Ab698cA70Cf99a37e1198",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/k6yKmf1/5001.png"
+    },
+    {
+      "name": "BitDeFi Testnet",
+      "symbol": "BDF",
+      "address": "0x496B653aBB86EA7A349A79d7F74d51C5aF4fB8d7",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/bLVgLp7/logobdf.png"
+    },
+    {
+      "name": "Testnet USD",
+      "symbol": "USDT",
+      "address": "0x275a59C1E7710857DD165FDd693eEddc95Fffbae",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SmartDev1990/tower-asset-icon/main/icon/usdt.png"
+    }
+  ]
+}
